@@ -1,0 +1,19 @@
+.conteiner {
+    display: flex;
+}
+
+.list_skills {
+    padding: 17px 0px 0px 10px; 
+    font-size: 18px;
+}
+
+.skill_item{
+    padding: 0px 0px 0px 40px;
+    color: white;
+    font-size: 18px;
+}
+
+.level {
+    padding: 36px 0px 0px 110px;
+    font-size: 18px;
+}

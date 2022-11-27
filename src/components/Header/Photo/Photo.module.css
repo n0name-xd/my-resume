@@ -1,0 +1,7 @@
+.photo {
+    display: flex;
+    justify-content: space-between;
+    color: #CA3820;
+    font-size: 70px;
+    padding: 0px 300px 0px 300px;
+}

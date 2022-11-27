@@ -1,0 +1,13 @@
+.box_lvl {
+    height: 17px;
+    width: 100px;
+    background: #C3E88D;
+    border: 1px solid white;
+    margin: 2px 0px 0px -40px;
+}
+
+.level {
+    height: 100%;
+    background: red;
+    margin: 0px 0px 0px 0px;
+}
